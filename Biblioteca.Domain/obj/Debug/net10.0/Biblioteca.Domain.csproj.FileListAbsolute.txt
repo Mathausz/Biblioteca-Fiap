@@ -1,0 +1,11 @@
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\bin\Debug\net10.0\Biblioteca.Domain.deps.json
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\bin\Debug\net10.0\Biblioteca.Domain.dll
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\bin\Debug\net10.0\Biblioteca.Domain.pdb
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.dll
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\obj\Debug\net10.0\refint\Biblioteca.Domain.dll
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.pdb
+C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Domain\obj\Debug\net10.0\ref\Biblioteca.Domain.dll
