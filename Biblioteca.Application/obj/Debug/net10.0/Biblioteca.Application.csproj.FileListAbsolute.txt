@@ -13,3 +13,19 @@ C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Application\obj\Debug\ne
 C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\refint\Biblioteca.Application.dll
 C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.pdb
 C:\Users\helll\RiderProjects\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\ref\Biblioteca.Application.dll
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Application.deps.json
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Application.dll
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Application.pdb
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Domain.dll
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\bin\Debug\net10.0\Biblioteca.Domain.pdb
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.AssemblyInfo.cs
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.sourcelink.json
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Bibliote.A09E2D7B.Up2Date
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.dll
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\refint\Biblioteca.Application.dll
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\Biblioteca.Application.pdb
+C:\Users\helll\RiderProjects\CP Advanced Business Development with .NET\src\Biblioteca Fiap\Biblioteca.Application\obj\Debug\net10.0\ref\Biblioteca.Application.dll

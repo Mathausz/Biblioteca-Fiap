@@ -1,5 +1,6 @@
 ﻿using Biblioteca.Domain.Commons;
 using Biblioteca.Domain.Enums;
+using Microsoft.EntityFrameworkCore;
 
 namespace Biblioteca.Domain.Entities;
 
@@ -15,4 +16,9 @@ public class Livro : EntityBase
     
     // (1,n)
     public ICollection<Emprestimo> Emprestimos { get; set; } = new List<Emprestimo>();
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Livro>().ComplexProperty("LIVROS");
+    }
+
 }

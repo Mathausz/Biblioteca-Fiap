@@ -12,4 +12,9 @@
       <ProjectReference Include="..\Biblioteca.Domain\Biblioteca.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.14" />
+      <PackageReference Include="Oracle.EntityFrameworkCore" Version="9.23.26100" />
+    </ItemGroup>
+
 </Project>

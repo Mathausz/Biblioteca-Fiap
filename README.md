@@ -9,6 +9,11 @@ Este é um projeto de uma API Web para gerenciamento de uma biblioteca, desenvol
 
 O projeto está focado na modelagem de domínio, com entidades bem definidas e relacionamentos.
 
+
+## Banco De Dados 
+no user e Password vc coloca seu RM no user e o password a senha de acesso quando banco se tudo tiver certo vai ser informando que deu true na conexão, caso contrário, vai informar que deu false, ou seja, que a conexão falhou.
+
+
 ## Modelo Entidade-Relacionamento (MER)
 O MER da biblioteca inclui as seguintes entidades e relacionamentos:
 
@@ -46,4 +51,4 @@ O MER da biblioteca inclui as seguintes entidades e relacionamentos:
 4. A API estará disponível em `https://localhost:5001` (ou similar).
 
 ## Notas sobre a Criação do README
-Este README foi criado utilizando assistência de IA (GitHub Copilot) e inclui tentativas de arrumar e melhorar o conteúdo baseado nas interações e feedbacks durante o desenvolvimento do projeto.
+Este README foi criado utilizando assistência de IA (GitHub Copilot) e inclui tentativas de arrumar o merge que por fim arrumando.
